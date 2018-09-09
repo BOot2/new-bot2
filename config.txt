@@ -1,5 +1,5 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
+token=token=process.env.BOT_TOKEN
+owner=456626501182291978 
 prefix=!
 game=Baktash-bot
 stayinchannel=true
