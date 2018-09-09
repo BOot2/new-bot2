@@ -1,4 +1,4 @@
-token=token=process.env.BOT_TOKEN
+token=NDg4MDU2MDM0OTc2MzMzODM4.Dnb7bw.Fn_gobRdTaxkzefcOOePFvjwoMw
 owner=456626501182291978 
 prefix=!
 game=Baktash-bot
