@@ -1,6 +1,6 @@
 token=NDg4MDU2MDM0OTc2MzMzODM4.Dnb7bw.Fn_gobRdTaxkzefcOOePFvjwoMw
 owner=456626501182291978 
 prefix=!
-game=Baktash-bot
+game=الجنرال-bot
 stayinchannel=true
 songinstatus=true
