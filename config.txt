@@ -1,6 +1,6 @@
 token=توكن بوت
-owner=456626501182291978 
+owner= 
 prefix=!
-game=الجنرال-bot
+game=
 stayinchannel=true
 songinstatus=true
